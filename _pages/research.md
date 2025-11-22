@@ -15,7 +15,7 @@ connectomics, imaging biomarkers, and deep learning pipelines.
 ## 1. Olfactory Neuroscience of Alzheimer’s Disease Risk in APOE Mouse Models
 
 **Related Publication:**  
-Moon et al., 2025 — https://doi.org/10.3390/brainsci15080863
+[Moon et al., 2025](https://doi.org/10.3390/brainsci15080863)
 
 I studied how Alzheimer’s disease risk first emerges in the sensory systems, particularly
 the olfactory circuit, one of the earliest and most vulnerable networks affected in AD.
@@ -56,7 +56,6 @@ olfactory memory circuits, and their associated transcriptomic patterns as
 a translatable biomarker axis for early Alzheimer’s disease risk.
 
 
-
 ### Multimodal Imaging of Olfactory-Limbic Circuit Vulnerability
 
 <img src="/images/figure4_part1.png" alt="Hierarchical clustering of diffusion and volumetric microstructure across olfactory–limbic regions including piriform, entorhinal, hippocampal, and subicular areas, revealing risk-associated regional groupings." width="800">
@@ -73,7 +72,7 @@ variance in odor-guided behaviors.
 ## 2. Feature Attention Graph Neural Network for Brain Age Estimation
 
 **Related Publication:**  
-Moon et al., 2024 — https://doi.org/10.1162/imag_a_00245
+[Moon et al., 2024](https://doi.org/10.1162/imag_a_00245)
 
 I develop computational models that reveal how Alzheimer’s disease risk alters the aging trajectory of the brain, focusing on large scale structural networks measured with diffusion MRI. In this work, I introduced the Feature Attention Graph Neural Network (FAGNN), a multimodal deep learning architecture designed to capture subtle, heterogeneous alterations in full brain connectomes. The model integrates structural connectivity, spatial learning behavior from Morris water maze trajectories, and demographic and genetic risk factors such as APOE genotype, diet, sex, and humanized NOS2 status. A core part of the framework is the Quadrant Attention Module, which processes each quadrant of the connectome separately and assigns importance score to individual connections, enabling the model to identify hemispheric and interhemispheric patterns that reflect early neurobiological changes linked to Alzheimer’s disease risk.
 
