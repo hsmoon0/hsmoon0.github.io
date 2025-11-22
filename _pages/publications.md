@@ -10,7 +10,7 @@ This list was last updated on **2025-11-22**.
 A complete and up-to-date set of my publications can be found on my  
 [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=_bfJr0gAAAAJ&view_op=list_works&sortby=pubdate).
 
-🟢 = Open-access  🔒 = Not open-access (email me for a copy)
+🟢 = Open access  🔒 = Not open access (email me for a copy)
 
 ---
 
