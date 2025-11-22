@@ -10,9 +10,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hae Sol Moon, Ph.D."
+title                    : "Research"
 title_separator          : "-"
-name                     : &name "Hae Sol Moon"
+name                     : &name "Hae Sol Moon, Ph.D."
 description              : &description "Multimodal neuroimaging, connectomics, and AI for Alzheimer's disease and neurological risk"
 url                      : https://hsmoon0.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -30,12 +30,12 @@ author:
   location         : "Seoul, South Korea · Durham, NC"
   employer         : "Duke University, Biomedical Engineering"
   uri              : # URL
-  email            : "your_email@institution.edu" 
+  email            : "haesolmoon0@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_bfJr0gAAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "https://orcid.org/your-orcid-id"
