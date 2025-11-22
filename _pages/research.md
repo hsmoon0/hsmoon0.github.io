@@ -66,7 +66,6 @@ olfactory and memory-associated regions. The second panel shows high-weight mult
 connections identified by Elastic Net multiset CCA that explain a substantial portion of
 variance in odor-guided behaviors.
 
----
 
 
 ## 2. Feature Attention Graph Neural Network for Brain Age Estimation
