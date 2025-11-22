@@ -1,10 +1,8 @@
 ---
-title: "Research"
+title: "Research Overview"
 permalink: /research/
 author_profile: true
 ---
-
-# Research Overview
 
 My work spans systems neuroscience, multimodal neuroimaging, and machine
 learning to reveal mechanisms underlying Alzheimer’s disease risk,
@@ -14,34 +12,26 @@ connectomics, imaging biomarkers, and deep learning pipelines.
 
 
 
-
 ## 1. Olfactory Neuroscience of Alzheimer’s Disease Risk in APOE Mouse Models
 
-I studied how Alzheimer’s disease risk first emerges in the sensory systems—particularly
+I studied how Alzheimer’s disease risk first emerges in the sensory systems, particularly
 the olfactory circuit, one of the earliest and most vulnerable networks affected in AD.
 My work combines behavioral neuroscience, high-resolution diffusion MRI, tractography,
 and blood–brain transcriptomics to dissect how APOE genotype, age, immune background,
-and diet shape odor-guided behavior and its underlying neural circuits.
-
-I conducted a comprehensive battery of olfactory assays, including odor salience across
+and diet shape odor-guided behavior and its underlying neural circuits. I conducted a comprehensive battery of olfactory assays, including odor salience across
 multiple concentrations, habituation–dishabituation to assess novelty detection, and
-short-, long-, and extended-term odor memory. These paradigms capture perceptual
+short, long, and extended-term odor memory. These paradigms capture perceptual
 sensitivity, learning, exploratory drive, and memory consolidation. Across APOE cohorts,
 aging and high-fat diet intensify olfactory deficits in APOE4 carriers, whereas APOE2
-mice show greater behavioral resilience.
-
-APOE2 mice display rapid habituation and robust novelty responses, while APOE4 mice
-show slower decline in investigation time and markedly reduced dishabituation
-responses. Memory tasks reveal that APOE4 mice exhibit
-the least improvement from short- to long-term odor memory and the steepest decline
+mice show greater behavioral resilience. Memory tasks reveal that APOE4 mice exhibit
+the least improvement from short to long-term odor memory and the steepest decline
 from 24 h to 48 h, indicating weaker consolidation and retention. In contrast, APOE2 mice
-maintain stronger extended-term memory across age and diet conditions
-. These patterns highlight genotype-specific sensory–cognitive
-vulnerability within olfactory–hippocampal networks.
+maintain stronger extended-term memory across age and diet conditions. These patterns highlight genotype-specific sensory–cognitive
+vulnerability within olfactory-hippocampal networks.
 
 To understand the neural basis of these behavioral changes, I pair behavioral testing with
 ex vivo high-resolution diffusion MRI (45 μm isotropic), microstructural mapping, and
-connectome reconstruction. This approach reveals genotype- and age-dependent
+connectome reconstruction. This approach reveals genotype and age-dependent
 alterations in olfactory–limbic hubs, including the piriform cortex, amygdalo-piriform
 transition area, entorhinal cortex, hippocampus, and subicular complex—regions that
 support odor memory and are among the earliest affected by AD pathology. Blood and
