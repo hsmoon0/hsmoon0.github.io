@@ -20,7 +20,7 @@ Moon et al., 2025 — https://doi.org/10.3390/brainsci15080863
 I studied how Alzheimer’s disease risk first emerges in the sensory systems, particularly
 the olfactory circuit, one of the earliest and most vulnerable networks affected in AD.
 My work combines behavioral neuroscience, high resolution diffusion MRI, tractography,
-and blood–brain transcriptomics to dissect how APOE genotype, age, immune background,
+and blood-to-brain transcriptomics to dissect how APOE genotype, age, immune background,
 and diet shape odor-guided behavior and its underlying neural circuits. I conducted a comprehensive battery of olfactory assays, including odor salience across
 multiple concentrations, habituation/dishabituation to assess novelty detection, and
 short, long, and extended term odor memory. These paradigms capture perceptual
@@ -35,7 +35,7 @@ vulnerability within olfactory-hippocampal networks.
 To understand the neural basis of these behavioral changes, I pair behavioral testing with
 ex vivo high resolution diffusion MRI (45 μm isotropic), microstructural mapping, and
 connectome reconstruction. This approach reveals genotype and age-related
-alterations in olfactory–limbic areas, including the piriform cortex, amygdalo piriform
+alterations in olfactory-limbic areas, including the piriform cortex, amygdalo piriform
 transition area, entorhinal cortex, hippocampus, and subicular complex which are regions that
 support odor memory and are among the earliest affected by AD pathology. Blood and
 brain RNA-seq further identify eigengene modules whose expression patterns mirror
@@ -50,14 +50,14 @@ hippocampal, and subicular circuits that are essential for odor learning and rec
 Elastic Net multiset CCA reveals diffusion subnetworks within these regions that
 account for a substantial portion of variance in odor guided behaviors (up to 24%). 
 Blood eigengene modules also track microstructural changes in these same 
-olfactory–limbic pathways, linking peripheral molecular signatures to central 
+olfactory-limbic pathways, linking peripheral molecular signatures to central 
 sensory cognitive decline. Together, this work establishes olfactory behavior, 
 olfactory memory circuits, and their associated transcriptomic patterns as 
 a translatable biomarker axis for early Alzheimer’s disease risk.
 
 ---
 
-### Multimodal Imaging of Olfactory–Limbic Circuit Vulnerability
+### Multimodal Imaging of Olfactory-Limbic Circuit Vulnerability
 
 <img src="/images/figure4_part1.png" alt="Hierarchical clustering of diffusion and volumetric microstructure across olfactory–limbic regions including piriform, entorhinal, hippocampal, and subicular areas, revealing risk-associated regional groupings." width="800">
 
