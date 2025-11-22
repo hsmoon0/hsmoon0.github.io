@@ -11,23 +11,15 @@ redirect_from:
 
 Hi, thanks for stopping by! 👋
 
-I am a researcher working at the intersection of multimodal neuroimaging,
-connectomics, and machine learning. My work focuses on understanding
-Alzheimer’s disease risk by integrating structural/diffusion MRI, 
-animal behavioral experiments and blood/brain transcriptomics.
+I am a researcher working at the intersection of neuroimaging, connectomics, and machine learning with a focus on understanding Alzheimer’s disease. My work brings together structural and diffusion MRI, animal behavioral experiments, and blood and brain transcriptomics to study how genetic and environmental factors shape vulnerability within neural circuits.
 
-My Ph.D. research in Biomedical Engineering at Duke University centered on building
-computational pipelines and deep learning models to link brain structure and
-network connectivity with age and genotype-related vulnerabilities.
-I combine imaging, behavior, and omics to uncover mechanisms
-that contribute to neurodegeneration and cognitive decline.
+My Ph.D. in Biomedical Engineering at Duke University centered on developing computational pipelines and deep learning models that connect network-level brain structure with age and genotype related changes in cognition. I use imaging, behavior, and molecular signatures to study how these features work together to reveal patterns of neurodegeneration and cognitive decline.
 
-I completed my B.S. in Biomedical Engineering, a B.S.A.S. in Electrical
+Before Duke, I completed my B.S. in Biomedical Engineering, a B.S.A.S. in Electrical
 Engineering, and an M.S. in Biomedical Engineering at Washington University
 in St. Louis, where I developed my foundation in quantitative imaging,
 signal processing, and computational neuroscience.
 
 
 Email: haesolmoon0 at gmail.com
-
 
