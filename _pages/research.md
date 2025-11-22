@@ -1,3 +1,9 @@
+---
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
 # Research Overview
 
 My work spans systems neuroscience, multimodal neuroimaging, and machine
