@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+![Ranch near North Durham, NC](../images/north_durham_ranch.jpg)
 
 Hi, thanks for stopping by! 👋
 
