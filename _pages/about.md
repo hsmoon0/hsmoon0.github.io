@@ -26,5 +26,6 @@ Engineering, and an M.S. in Biomedical Engineering at Washington University
 in St. Louis, where I developed my foundation in quantitative imaging,
 signal processing, and computational neuroscience.
 
+Email: haesolmoon0 at gmail.com
 
 
