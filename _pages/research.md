@@ -61,7 +61,7 @@ a translatable biomarker axis for early Alzheimer’s disease risk.
 
 <img src="/images/figure4_part1.png" alt="Hierarchical clustering of diffusion and volumetric microstructure across olfactory–limbic regions including piriform, entorhinal, hippocampal, and subicular areas, revealing risk-associated regional groupings." width="800">
 
-**Figure. Multimodal imaging and network analysis reveal olfactory–limbic circuits shaped by Alzheimer’s disease risk factors.**  
+**Figure 1. Multimodal imaging and network analysis reveal olfactory–limbic circuits shaped by Alzheimer’s disease risk factors.**  
 The first panel shows clustering of diffusion and volumetric microstructure across key
 olfactory and memory-associated regions. The second panel shows high-weight multimodal
 connections identified by Elastic Net multiset CCA that explain a substantial portion of
@@ -87,7 +87,7 @@ These results demonstrate that brain aging is not uniform but instead concentrat
 
 <img src="/images/fagnn_figure1.png" alt="Overview of the Feature Attention Graph Neural Network architecture integrating traits, behavior, and structural connectomes. The model processes risk factor traits through a 1D CNN, spatial learning behavior through a 2D CNN, and diffusion MRI tractography-derived connectomes through a Graph Neural Network with a Quadrant Attention Module, ultimately combining outputs through a fully connected block to estimate brain age and identify influential connections." width="900">
 
-**Figure.** Schematic illustration of the Feature Attention Graph Neural Network (FAGNN) for brain age estimation.  
+**Figure 2.** Schematic illustration of the Feature Attention Graph Neural Network (FAGNN) for brain age estimation.  
 
 The model integrates three major data domains: risk factor traits, behavior, and structural connectomes. Traits such as age, sex, APOE genotype, humanized NOS2 status, and diet are processed through a 1D CNN that extracts patterns reflecting global influences on aging. Behavioral metrics derived from Morris water maze trajectories (distance, search strategies, learning curves) are processed through a 2D CNN to capture task-relevant cognitive signatures. Structural connectivity matrices derived from diffusion MRI tractography are passed through the Quadrant Attention Module (QAM), which divides each connectome into four quadrants, applies multi-head attention to score edges within each quadrant, then recombines them to form a weighted graph for GNN processing. Outputs from the CNN modules and the attention weighted GNN are fused through a fully connected block to generate a predicted brain age. By comparing predicted brain age to chronological age, the model identifies accelerated or resilient aging trajectories and highlights subnetworks whose connectivity patterns most strongly reflect Alzheimer’s disease risk. This architecture allows the model to capture both global influences on aging and connectome-level alterations across limbic, basal ganglia, and interhemispheric pathways.
 
