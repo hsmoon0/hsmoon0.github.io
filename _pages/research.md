@@ -85,7 +85,7 @@ These results demonstrate that brain aging is not uniform but instead concentrat
 
 ### Overview of the FAGNN Architecture
 
-<img src="/images/fagnn_figure1.png" alt="Overview of the Feature Attention Graph Neural Network architecture integrating traits, behavior, and structural connectomes. The model processes risk factor traits through a 1D CNN, spatial learning behavior through a 2D CNN, and diffusion MRI tractography-derived connectomes through a Graph Neural Network with a Quadrant Attention Module, ultimately combining outputs through a fully connected block to estimate brain age and identify influential connections." width="900">
+<img src="/images/fagnn_figure1.png" alt="Overview of the Feature Attention Graph Neural Network architecture integrating traits, behavior, and structural connectomes. The model processes risk factor traits through a 1D CNN, spatial learning behavior through a 2D CNN, and diffusion MRI tractography-derived connectomes through a Graph Neural Network with a Quadrant Attention Module, ultimately combining outputs through a fully connected block to estimate brain age and identify influential connections." width="800">
 
 **Figure 2.** Schematic illustration of the Feature Attention Graph Neural Network (FAGNN) for brain age estimation.  
 
