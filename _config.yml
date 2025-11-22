@@ -10,10 +10,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Research"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Hae Sol Moon, Ph.D."
-description              : &description "Multimodal neuroimaging, connectomics, and AI for Alzheimer's disease and neurological risk"
+description              : &description "Multimodal neuroimaging, neurology, bioinformatics and AI"
 url                      : https://hsmoon0.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsmoon0/hsmoon0.github.io"
@@ -24,12 +24,12 @@ repository               : "hsmoon0/hsmoon0.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hae Sol Moon"
+  name             : "Hae Sol Moon, Ph.D."
   pronouns         :  # example: "she/her"  
-  bio              : "Multimodal neuroimaging, connectomics, and AI for understanding Alzheimer's disease and neurological risk."
+  bio              : "Multimodal neuroimaging, neurology, bioinformatics and AI"
   location         : "Seoul, South Korea · Durham, NC"
   employer         : "Duke University, Biomedical Engineering"
-  uri              : # URL
+  uri              : "haesolmoon0@gmail.com"
   email            : "haesolmoon0@gmail.com" 
 
   # Academic websites
