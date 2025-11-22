@@ -12,7 +12,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Hae Sol Moon, Ph.D."
+name                     : &name "Hae Sol Moon"
 description              : &description "Multimodal neuroimaging, neurology, bioinformatics and AI"
 url                      : https://hsmoon0.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ author:
   bio              : "Multimodal neuroimaging, neurology, bioinformatics and AI"
   location         : "Seoul, South Korea · Durham, NC"
   employer         : "Duke University, Biomedical Engineering"
-  uri              : "haesolmoon0@gmail.com"
+  uri              : #
   email            : "haesolmoon0@gmail.com" 
 
   # Academic websites
