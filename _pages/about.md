@@ -13,8 +13,8 @@ Hi, thanks for stopping by! 👋
 
 I am a researcher working at the intersection of multimodal neuroimaging,
 connectomics, and machine learning. My work focuses on understanding
-Alzheimer’s disease risk by integrating diffusion MRI, structural imaging,
-behavioral assays, transcriptomics, and blood/brain molecular signatures.
+Alzheimer’s disease risk by integrating structural/diffusion MRI, 
+animal behavioral experiments and blood/brain transcriptomics.
 
 My Ph.D. research in Biomedical Engineering at Duke University centered on building
 computational pipelines and deep learning models to link brain structure and
