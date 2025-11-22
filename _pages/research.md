@@ -14,6 +14,9 @@ connectomics, imaging biomarkers, and deep learning pipelines.
 
 ## 1. Olfactory Neuroscience of Alzheimer’s Disease Risk in APOE Mouse Models
 
+**Related Publication:**  
+Moon et al., 2025 — https://doi.org/10.3390/brainsci15080863
+
 I studied how Alzheimer’s disease risk first emerges in the sensory systems, particularly
 the olfactory circuit, one of the earliest and most vulnerable networks affected in AD.
 My work combines behavioral neuroscience, high-resolution diffusion MRI, tractography,
@@ -33,7 +36,7 @@ To understand the neural basis of these behavioral changes, I pair behavioral te
 ex vivo high-resolution diffusion MRI (45 μm isotropic), microstructural mapping, and
 connectome reconstruction. This approach reveals genotype and age-dependent
 alterations in olfactory–limbic hubs, including the piriform cortex, amygdalo-piriform
-transition area, entorhinal cortex, hippocampus, and subicular complex—regions that
+transition area, entorhinal cortex, hippocampus, and subicular complex which are regions that
 support odor memory and are among the earliest affected by AD pathology. Blood and
 brain RNA-seq further identify eigengene modules whose expression patterns mirror
 diffusion and connectivity changes in these regions, with enrichment for synaptic signaling,
@@ -43,7 +46,7 @@ The key finding from this line of work is that olfactory behavior provides an ea
 highly sensitive window into Alzheimer’s disease vulnerability. Reduced novelty
 detection, slower habituation, and weaker long-term and extended-term odor memory in
 APOE4 mice closely align with microstructural disruption in piriform, entorhinal,
-hippocampal, and subicular regions—circuits essential for odor learning and recognition.
+hippocampal, and subicular circuits that are essential for odor learning and recognition.
 Elastic Net multiset CCA reveals diffusion-derived subnetworks within these regions that
 account for a substantial portion of variance in odor-guided behaviors (up to 24%). 
 Blood-derived eigengene modules also track microstructural changes in these same 
