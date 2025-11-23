@@ -13,7 +13,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Hae Sol Moon"
-description              : &description "Multimodal neuroimaging, neurology, bioinformatics and AI"
+description              : &description "Multimodal neuroimaging, Alzheimer’s disease, neurodegeneration, connectomics and AI"
 url                      : https://hsmoon0.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsmoon0/hsmoon0.github.io"
