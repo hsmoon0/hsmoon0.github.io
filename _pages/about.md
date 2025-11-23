@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, thanks for stopping by! 👋
 
-I am a researcher working at the intersection of neuroimaging, connectomics, and machine learning with a focus on understanding Alzheimer’s disease. My work brings together structural and diffusion MRI, animal behavioral experiments, and blood and brain transcriptomics to study how genetic and environmental factors shape vulnerability within neural circuits.
+I am a researcher working at the intersection of neuroimaging, connectomics, and machine learning with a focus on understanding Alzheimer’s disease and brain aging. My work brings together structural and diffusion MRI, animal behavioral experiments, and blood and brain transcriptomics to study how genetic and environmental factors shape vulnerability within neural circuits.
 
 My Ph.D. in Biomedical Engineering at Duke University centered on developing computational pipelines and deep learning models that connect network-level brain structure with age and genotype related changes in cognition. I use imaging, behavior, and molecular signatures to study how these features work together to reveal patterns of neurodegeneration and cognitive decline.
 
